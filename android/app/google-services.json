@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701132828293",
+    "project_id": "appnamepp32nutriars",
+    "storage_bucket": "appnamepp32nutriars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701132828293:android:38588b263794e67c6843ec",
+        "android_client_info": {
+          "package_name": "com.example.pp_32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbHWHbhUqsfynZPPm_nNg3XLAe97jDUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
